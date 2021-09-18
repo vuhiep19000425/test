@@ -9,3 +9,4 @@ C: \ Program Files \ Adobe \ Common \ Plug-ins \ 7.0 \ MediaCore
 
 
 3. -------------------tiktok chan vl------------------------------ 
+4. -------------------yeu Hiep nhieu lam--------------------------
